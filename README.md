@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HARSH
-- 👀 Blockchain Explorer
+- 🧠 Blockchain Explorer
 - 🤖 Data Science, AI & ML Enthusiast
 - 🌱 Currently Learning new technologies and Exploring new domains
 - 📫 You can contact me through my email - coolass360@gmail.com
