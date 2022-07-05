@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @HARSH
-- 👀 I’m interested in Data Science and AI & ML
-- 🌱 I’m currently learning AI & DS
+- 👀 Blockchain Explorer
+- 🤖 Data Science, AI & ML Enthusiast
+- 🌱 Currently Learning new technologies and Exploring new domains
 - 📫 You can contact me through my email - coolass360@gmail.com
+- 👀 "We Suffer More In Imagination Than In Reality". 
+      Don't just think about it act on it, code it.
+
 
 <!---
 HARSH-232/HARSH-232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
