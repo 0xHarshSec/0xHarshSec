@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HARSH
 - 🧠 Blockchain Explorer
-- 🤖 Data Science, AI & ML Enthusiast
+- 🤖 Data Science, AI & ML Enthusiast, Cybersecurity Explorer
 - 🌱 Currently Learning new technologies and Exploring new domains
 - 📫 You can contact me through my email - coolass360@gmail.com
 - 👀 "We Suffer More In Imagination Than In Reality". 
