@@ -1,3 +1,9 @@
+<div align="center">
+  
+![44dc1f47393655 58823b49e737b](https://github.com/HARSH-232/HARSH-232/assets/84784218/a41e7b6a-6390-47bf-b025-14561f7489e0)
+
+</div>
+
 <h1 align="center">Hi 👋🏽, I'm Harsh</h1>
 <h3 align="center">A Cybersecurity Nerd and Security Evangelist from India</h3>
 
@@ -8,6 +14,9 @@
 - 🌱 I’m currently learning **CyberSecurity, Pentesting, Network Security**
 
 - 📫 How to reach me **solankiharshwardhan03@gmail.com**
+
+  ![skull](https://github.com/HARSH-232/HARSH-232/assets/84784218/2fc5cf91-6e51-420f-a9b1-fd144ebee25e)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +31,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-232&show_icons=true&locale=en" alt="harsh-232" /></p>
 
+<hr>
+
+<div align="center">
+
+![systemlog off](https://github.com/HARSH-232/HARSH-232/assets/84784218/92c8c51c-718a-4fcd-9feb-3ef721728275)
+
+</div>
 
 <!---
 HARSH-232/HARSH-232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
