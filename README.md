@@ -11,7 +11,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/harshsec" target="blank"><img src="https://img.shields.io/twitter/follow/harshsec?logo=twitter&style=for-the-badge" alt="harshsec" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xharshsec" target="blank"><img src="https://img.shields.io/twitter/follow/harshsec?logo=twitter&style=for-the-badge" alt="harshsec" /></a> </p>
 
 
 
