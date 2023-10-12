@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋🏽, I'm Harsh</h1>
 <h3 align="center">A Cybersecurity Nerd and Security Evangelist from India</h3>
 
-[![](https://visitcount.itsvg.in/api?id=HARSH-232&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=0xHarshSec&icon=2&color=12)](https://visitcount.itsvg.in)
 
 
 
